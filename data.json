@@ -1,0 +1,10 @@
+{
+"meals":[
+    {
+        "id":1,
+        "name":"Pasta",
+        "price":20.2,
+        "description":"Italian cusine"
+    }
+]
+}
